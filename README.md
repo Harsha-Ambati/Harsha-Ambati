@@ -11,18 +11,14 @@ Hi, I'm Harsha, a passionate Cyber security engineer from India.
 ## Skills
 
 <img src="https://img.shields.io/badge/PHP-ff7851" /> <img src="https://img.shields.io/badge/HTML-44b2fb" /> <img src="https://img.shields.io/badge/CSS3 -ffc742" /> 
-<img src="https://img.shields.io/badge/Javascript -563d7c" />
-<img src="https://img.shields.io/badge/Python -41b883" />
-<img src="https://img.shields.io/badge/Networking -FF0000" />  
-<img src="https://img.shields.io/badge/Linux -1cc4b4" />
-<img src="https://img.shields.io/badge/Scripting -FF0000" />  
+<img src="https://img.shields.io/badge/Javascript -563d7c" /><img src="https://img.shields.io/badge/Python -41b883" /><img src="https://img.shields.io/badge/Networking -FF0000"/>  <img src="https://img.shields.io/badge/Linux -1cc4b4" /><img src="https://img.shields.io/badge/Scripting -FF0000" />  
 <img src="https://img.shields.io/badge/mySQL -ff7b19" /> <img src="https://img.shields.io/badge/unix -30a8fe" />
 
 </br>
 <details>
 	<summary>Tools</summary>
 	<ul>
-    	<li>Kali Linux</li>
+    	<li>Metasploit</li>
 		<li>Burp suite</li>
 		<li>Nmap</li>
 		<li>Wireshark</li>
