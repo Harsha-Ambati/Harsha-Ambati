@@ -15,7 +15,7 @@ Hi, I'm Harsha, a passionate Cyber security engineer from India.
 <img src="https://img.shields.io/badge/Javascript -563d7c" /><img src="https://img.shields.io/badge/Python -41b883" />
 <img src="https://img.shields.io/badge/Networking -FF0000"/> <br>
 <img src="https://img.shields.io/badge/Linux -1cc4b4" /><img src="https://img.shields.io/badge/Scripting -FF0000" />  
-<img src="https://img.shields.io/badge/mySQL -ff7b19" /> <img src="https://img.shields.io/badge/unix -30a8fe" />
+<img src="https://img.shields.io/badge/mySQL -ff7b19" /> 
 
 </br>
 <details>
