@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsha-ambati" alt="harsha-ambati" /> </p>
 
-- 🌱 I’m currently learning **Web application security, bug bounty**
+- 🌱 I’m currently learning **Web security and bug hunting**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Harsha-Ambati](https://github.com/Harsha-Ambati)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Harsha-Ambati)
 
-- 📝 I regulary write articles on [Bug hunting,Cyber security](Bug hunting,Cyber security)
+- 📝 I regulary write articles on [Medium](https://medium.com/@harsha.ambati) and [Dev.to](https://dev.to/harshaambati)
 
-- 💬 Ask me about **Web application security,network security,infosec**
+- 💬 Ask me about **Network Security,Cyber security,bug hunting**
 
 - 📫 How to reach me **harsha.ambati05@gmail.com**
 
